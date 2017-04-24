@@ -1,2 +1,2 @@
-# jquery-classyloader
-jquery-classyloader
+# classyloader
+classyloader
